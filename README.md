@@ -2,8 +2,8 @@
 
 This lab uses AWS Elastic Beanstalk and Postman for API testing.
 
-## Four Test Cases
-<img width="1440" alt="Screen Shot 2022-11-30 at 4 30 21 PM" src="https://user-images.githubusercontent.com/103273559/204912203-4ae63ba1-eda9-4e2e-8a3a-4a316f1b056e.png">
+## One of the Test case
+<img width="1002" alt="Screen Shot 2022-11-30 at 4 46 05 PM" src="https://user-images.githubusercontent.com/103273559/204914965-a667b1e1-6d28-40c4-862c-4e9ef746c330.png">
 
 ## Test Average Latency
-<img width="1440" alt="Screen Shot 2022-11-30 at 4 15 57 PM" src="https://user-images.githubusercontent.com/103273559/204912232-ecf3f714-05eb-45cb-8858-9b3476ee1376.png">
+<img width="1060" alt="Screen Shot 2022-11-30 at 4 46 21 PM" src="https://user-images.githubusercontent.com/103273559/204915001-9ba788b9-c620-4876-ba23-25e2b221b888.png">
